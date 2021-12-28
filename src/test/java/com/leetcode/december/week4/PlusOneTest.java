@@ -23,4 +23,12 @@ class PlusOneTest {
         Assertions.assertArrayEquals(expected, actual);
     }
 
+    @Test
+    void testRandomCase() {
+        int[] digits = {4, 3, 2, 1};
+        int[] actual = plusOne.plusOne(digits);
+        int[] expected = {4, 3, 2, 2};
+        Assertions.assertArrayEquals(expected, actual);
+    }
+
 }
