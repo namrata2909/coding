@@ -1,4 +1,4 @@
-package january.week1;
+package com.leetcode.january.week1;
 
 import com.leetcode.January.week1.JewelsAndStones;
 import org.junit.jupiter.api.Assertions;
