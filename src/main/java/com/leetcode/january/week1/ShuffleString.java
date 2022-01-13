@@ -1,4 +1,4 @@
-package com.leetcode.January.week1;
+package com.leetcode.january.week1;
 
 public class ShuffleString {
     public String restoreString(String s, int[] indices) {

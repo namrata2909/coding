@@ -1,4 +1,4 @@
-package com.leetcode.January.week2;
+package com.leetcode.january.week2;
 
 public class SubtractTheProductAndSumOfDigitsOfAnInteger {
 

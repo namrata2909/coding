@@ -1,6 +1,5 @@
 package com.leetcode.january.week2;
 
-import com.leetcode.January.week2.SubtractTheProductAndSumOfDigitsOfAnInteger;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
